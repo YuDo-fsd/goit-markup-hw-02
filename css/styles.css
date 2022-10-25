@@ -16,6 +16,7 @@ body {
   color: var(--primary-text-color);
   background-color: #ffffff;
   font-size: 14px;
+  font-weight: 400;
   letter-spacing: 0.03em;
 }
 
@@ -107,7 +108,6 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: calc(30 / 16);
-  letter-spacing: 0.03em;
   display: flex;
   align-items: center;
   text-align: center;
@@ -123,6 +123,7 @@ body {
 .benefits-title {
   color: var(--title-text-color);
   font-weight: 700;
+  font-size: 14px;
   line-height: calc(16 / 14);
   text-transform: uppercase;
 }
@@ -189,7 +190,6 @@ body {
 
 .sample-type {
   color: var(--secondary-text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: calc(30 / 16);
 }
@@ -206,12 +206,10 @@ body {
 
 .contact-footer {
   color: var(--contacts-color);
-  font-weight: 400;
   line-height: calc(24 / 14);
 }
 
 .adress-link {
   color: var(--primary-white-color);
-  font-weight: 400;
   line-height: calc(24 / 14);
 }
